@@ -1,0 +1,1 @@
+Implementation of the basic model of a financial robot, which is based on moving averages (long and short).  According to this model, a buy signal is formed at the moment when a long moving short is broken from below, and vice versa, a sell signal.
